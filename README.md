@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Eli Gonzalez
 
-<!--
-**elidgonzalezAI/elidgonzalezAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Cybersecurity Consultant | Offensive Security Specialist | GPT Automation Hacker**
 
-Here are some ideas to get you started:
+I help AI startups and developers secure their LLM-powered systems through red team audits, adversarial ML simulations, and GPT-assisted exploitation tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Current Projects
+- Building a GPT-assisted pentesting CLI tool
+- Publishing case studies: prompt injection, cloud misconfigs
+- Launching AI-driven audit automation services
+
+---
+
+## 🔍 Featured Work
+- 🧠 [tools](https://github.com/elidgonzalezAI/tools) – Recon, reporting, and GPT-based red team automations  
+- 📂 [case-studies](https://github.com/elidgonzalezAI/case-studies) – Real-world audits and security assessments  
+- 🧪 [labs](https://github.com/elidgonzalezAI/labs) – Hands-on progress from HTB, PortSwigger, and more  
+- 🌐 [elidgonzalez.com](https://elidgonzalez.com) – My personal consulting site
+
+---
+
+📫 Reach me: [elidgonzalez555@proton.me](mailto:elidgonzalez555@proton.me)
